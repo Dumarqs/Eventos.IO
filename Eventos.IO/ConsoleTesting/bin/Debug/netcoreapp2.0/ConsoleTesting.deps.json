@@ -1,0 +1,65 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.0",
+    "signature": "d0444baaa381b18fab68c6d0c1c20fc844908666"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.0": {
+      "ConsoleTesting/1.0.0": {
+        "dependencies": {
+          "Eventos.IO.Domain": "1.0.0"
+        },
+        "runtime": {
+          "ConsoleTesting.dll": {}
+        }
+      },
+      "FluentValidation/7.2.1": {
+        "runtime": {
+          "lib/netstandard1.0/FluentValidation.dll": {}
+        }
+      },
+      "Eventos.IO.Domain/1.0.0": {
+        "dependencies": {
+          "Eventos.IO.Domain.Core": "1.0.0",
+          "FluentValidation": "7.2.1"
+        },
+        "runtime": {
+          "Eventos.IO.Domain.dll": {}
+        }
+      },
+      "Eventos.IO.Domain.Core/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "7.2.1"
+        },
+        "runtime": {
+          "Eventos.IO.Domain.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ConsoleTesting/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FluentValidation/7.2.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cQza24pZdc1aPziHNPOazZzg2/5l8S1zbnIpjKMBq8kopRAGj+YXqGyP8Xo4OIqV16SccmzU1hhKV3Q7FyXglg==",
+      "path": "fluentvalidation/7.2.1",
+      "hashPath": "fluentvalidation.7.2.1.nupkg.sha512"
+    },
+    "Eventos.IO.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eventos.IO.Domain.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

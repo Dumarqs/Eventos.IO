@@ -1,0 +1,9 @@
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.deps.json
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.dll
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\bin\Debug\netstandard2.0\Eventos.IO.Domain.Core.pdb
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.AssemblyInfo.cs
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.dll
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\src\Eventos.IO.Domain.Core\obj\Debug\netstandard2.0\Eventos.IO.Domain.Core.pdb

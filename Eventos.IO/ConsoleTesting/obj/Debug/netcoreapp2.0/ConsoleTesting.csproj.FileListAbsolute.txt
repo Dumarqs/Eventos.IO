@@ -1,0 +1,15 @@
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.deps.json
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.runtimeconfig.json
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.runtimeconfig.dev.json
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.dll
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\ConsoleTesting.pdb
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.Core.dll
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.dll
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.pdb
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\bin\Debug\netcoreapp2.0\Eventos.IO.Domain.Core.pdb
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.csprojResolveAssemblyReference.cache
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.AssemblyInfoInputs.cache
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.AssemblyInfo.cs
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.dll
+C:\Users\eduar\Documents\Projetos .Net\Eventos.IO\ConsoleTesting\obj\Debug\netcoreapp2.0\ConsoleTesting.pdb
